@@ -66,37 +66,37 @@
      <Compile Include="Assets\Scripts\MonsterStat.cs" />
      <Compile Include="Assets\Scripts\StartManager.cs" />
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Triangle.Runtime">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>C:/Users/PC/Downloads/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>C:/Users/PC/Desktop/unity learn/educast/1-1 기존 게임 분석하기/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
