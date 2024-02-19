@@ -2,24 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BulletBehavior : MonoBehaviour {
+public class BulletBehavior : MonoBehaviour 
+{
+    public BulletStat bulletStat { get; set; }
 
-    public float speed = 10.0f;
+    public BulletBehavior()
+    {
+        bulletStat = new BulletStat(0, 0);
+    }
+
     public GameObject character;
 
-    private int damage;
-
-    public void setDamage(int input)
-    {
-        damage = input;
-    }
 
 	void Start () {
         Destroy(gameObject, 3.0f);
 	}
 	
 	void Update () {
-        transform.Translate(Vector2.right * speed * Time.deltaTime);
+        transform.Translate(Vector2.right * bulletStat.speed * Time.deltaTime);
 	}
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -27,7 +27,7 @@ public class BulletBehavior : MonoBehaviour {
         if(other.gameObject.tag == "Monster")
         {
             Destroy(gameObject);
-            other.GetComponent<MonsterStat>().attacked(damage);
+            other.GetComponent<MonsterStat>().attacked(bulletStat.damage);
         }   
     }
 }
